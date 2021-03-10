@@ -23,7 +23,7 @@ jobs:
         id: run_msbuild
         run: |
           msbuild .\gitactionstest.sln  /t:clean /p:Configuration=Debug
-          nuget restore .\gtiactionstest.sln
+          nuget restore .\gitactionstest.sln
           msbuild .\gitactionstest.sln  /t:build /p:Configuration=Debug
 
       - name: Setup VSTest and add to PATH
