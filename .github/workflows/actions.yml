@@ -30,7 +30,7 @@ jobs:
         uses: darenm/Setup-VSTest@v1
         id: setup_vstest
 
-      - name: Test experiments
+      - name: Test Case Workers
         id: run_vstest
         working-directory: UnitTests\bin\Debug
         run: vstest.console.exe .\UnitTests.dll /Tests:TestCaseWorkerIds,TestCaseWorkersCount
