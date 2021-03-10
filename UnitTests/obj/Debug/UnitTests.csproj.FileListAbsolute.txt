@@ -1,0 +1,15 @@
+C:\123\gitactionstest\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\123\gitactionstest\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\123\gitactionstest\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\123\gitactionstest\UnitTests\bin\Debug\UnitTests.dll
+C:\123\gitactionstest\UnitTests\bin\Debug\UnitTests.pdb
+C:\123\gitactionstest\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\123\gitactionstest\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\123\gitactionstest\UnitTests\bin\Debug\gitactionstest.exe
+C:\123\gitactionstest\UnitTests\bin\Debug\gitactionstest.pdb
+C:\123\gitactionstest\UnitTests\bin\Debug\gitactionstest.exe.config
+C:\123\gitactionstest\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\123\gitactionstest\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\123\gitactionstest\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\123\gitactionstest\UnitTests\obj\Debug\UnitTests.dll
+C:\123\gitactionstest\UnitTests\obj\Debug\UnitTests.pdb
